@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package pro_bibliotecajuegos.view;
 
 import java.awt.event.ActionEvent;
@@ -16,7 +11,7 @@ import pro_bibliotecajuegos.controller.TrivialController;
 
 /**
  *
- * @author Hansen
+ * @author abrandarizdominguez & ssahuquillo
  */
 public class TrivialQuestionView extends javax.swing.JFrame {
 

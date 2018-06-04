@@ -6,7 +6,7 @@ import pro_bibliotecajuegos.model.TrivialPlayerModel;
 
 /**
  *
- * @author abrandarizdominguez
+ * @author abrandarizdominguez & ssahuquillo
  */
 public class TrivialControllerDataBase {
     

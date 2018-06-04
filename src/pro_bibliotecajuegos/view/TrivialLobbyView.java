@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package pro_bibliotecajuegos.view;
 
 import java.io.File;
@@ -14,7 +9,7 @@ import pro_bibliotecajuegos.model.TrivialPlayerModel;
 
 /**
  *
- * @author Hansen
+ * @author abrandarizdominguez & ssahuquillo
  */
 public class TrivialLobbyView extends javax.swing.JFrame {
 

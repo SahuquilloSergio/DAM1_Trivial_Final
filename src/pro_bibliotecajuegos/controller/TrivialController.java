@@ -24,7 +24,7 @@ import pro_bibliotecajuegos.view.TrivialScoreView;
 
 /**
  *
- * @author Hansen
+ * @author abrandarizdominguez & ssahuquillo
  */
 public class TrivialController {
 
